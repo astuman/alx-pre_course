@@ -1,2 +1,2 @@
-#!/bin/bash
-echo"The school is open"
+$git add up_to_date
+$git pull
